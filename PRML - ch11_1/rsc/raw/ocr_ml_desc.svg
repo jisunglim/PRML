@@ -1,0 +1,143 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
+    version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="text" id="id61340979" fill="black" latexdraw:position="l">
+            <text x="40.0" y="100.0">28</text>
+        </g>
+        <g latexdraw:type="text" id="id117531300" fill="black" latexdraw:position="b">
+            <text x="100.0" y="160.0">28</text>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1391183845"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="380.0 180.0 400.0 160.0 380.0 200.0 420.0 180.0 ">
+            <path d="M 380.0 180.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id854169562"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="380.0 180.0 ">
+            <path d="M 380.0 180.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id845544104"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="360.0 160.0 400.0 180.0 420.0 200.0 440.0 180.0 ">
+            <path d="M 360.0 160.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id17971822"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="760.0 100.0 780.0 120.0 800.0 160.0 820.0 180.0 ">
+            <path d="M 760.0 100.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1289865964"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="680.0 140.0 780.0 160.0 760.0 180.0 740.0 200.0 ">
+            <path d="M 680.0 140.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id2055553823"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="720.0 140.0 ">
+            <path d="M 720.0 140.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id266121609"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="740.0 120.0 ">
+            <path d="M 740.0 120.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id329432071"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="660.0 120.0 620.0 140.0 580.0 160.0 560.0 180.0 540.0 200.0 ">
+            <path d="M 660.0 120.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1897655273"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="520.0 200.0 540.0 180.0 580.0 160.0 640.0 140.0 680.0 120.0 ">
+            <path d="M 520.0 200.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1209643310"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="620.0 160.0 640.0 220.0 720.0 200.0 700.0 140.0 660.0 160.0 ">
+            <path d="M 620.0 160.0 " stroke-width="2.0" stroke="black"
+                fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="picture" id="id1473410801">
+            <image
+                xlink:href="/Users/jaylim/Downloads/mnist_input_resize.png"
+                x="60.0" y="60.0" height="80" width="80"/>
+        </g>
+        <g latexdraw:type="square" id="id427577663">
+            <rect x="61.0" y="61.0" width="78.0" height="78.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id1328446870" fill="black" latexdraw:position="">
+            <text x="100.0" y="20.0">\textbf{Input}: example $\mathbfit{x}_{new}$</text>
+        </g>
+        <g latexdraw:type="text" id="id1911180317" fill="black" latexdraw:position="">
+            <text x="580.0" y="20.0">\textbf{output}: label $\mathbfit{\hat{t} = y}_{new}$</text>
+        </g>
+        <g latexdraw:type="text" id="id1608090729" fill="black" latexdraw:position="">
+            <text x="320.0" y="100.0">$\mathbfit{y_\theta(x)}$</text>
+        </g>
+        <g latexdraw:type="rectangle" id="id821351461">
+            <rect x="261.0" y="81.0" width="118.0" height="38.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id240427035">
+            <polyline points="240.0,100.0 160.0,100.0 160.0,100.0 "
+                stroke-width="2.0" stroke="black" fill="none"
+                latexdraw:rotationAngle="0.0" marker-start="url(#arrow0-240427035)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id852509129">
+            <polyline points="480.0,100.0 400.0,100.0 400.0,100.0 "
+                stroke-width="2.0" stroke="black" fill="none"
+                latexdraw:rotationAngle="0.0" marker-start="url(#arrow0-852509129)"/>
+        </g>
+        <g latexdraw:type="text" id="id2046010046" fill="black" latexdraw:position="">
+            <text x="560.0" y="100.0">$\mathit{C}_2=\begin{bmatrix}
+  0\\1\\\vdots\\0
+\end{bmatrix}$</text>
+        </g>
+    </g>
+    <defs>
+        <marker overflow="visible" orient="auto" id="arrow0-240427035">
+            <path
+                d="M 0.0 0.0 L 4.652083333333334 1.6614583333333335 L 4.652083333333334 0.0 L 4.652083333333334 -1.6614583333333335 z "
+                latexdraw:arrSizeNum="2.0" fill="black"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow0-852509129">
+            <path
+                d="M 0.0 0.0 L 4.652083333333334 1.6614583333333335 L 4.652083333333334 0.0 L 4.652083333333334 -1.6614583333333335 z "
+                latexdraw:arrSizeNum="2.0" fill="black"/>
+        </marker>
+    </defs>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:latexIncludes>\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+
+\DeclareMathAlphabet{\mathbfit}{OML}{cmm}{b}{it}
+
+</latexdraw:latexIncludes>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:unit>CM</latexdraw:unit>
+            <latexdraw:zoom>1.0</latexdraw:zoom>
+            <latexdraw:magneticGridStyle>CUSTOMISED</latexdraw:magneticGridStyle>
+            <latexdraw:gridGap>20</latexdraw:gridGap>
+            <latexdraw:magneticGrid>true</latexdraw:magneticGrid>
+            <latexdraw:version>3.3.6</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1680</latexdraw:width>
+                <latexdraw:height>949</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>0.0</latexdraw:x>
+                <latexdraw:y>23.0</latexdraw:y>
+            </latexdraw:position>
+        </latexdraw:metadata>
+    </metadata>
+</svg>

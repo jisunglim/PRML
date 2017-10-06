@@ -1,0 +1,37 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@endinputifotherversion {3.36pt}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Introduction}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Bayesian Approach and Intractability Relaxation}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Introduction to Sampling}{7}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Basic Sampling Methods}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Basic Sampling}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Generating Random Samples}{11}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{3}{General Strategy for Generating Samples}{13}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{4}{Importance Sampling}{19}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{5}{SIP}{23}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{6}{Sampling and the EM algorithm}{24}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Markov Chain}{27}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{1}{Markov Chain}{27}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{2}{Markov Chain for MCMC}{31}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Markov Chain Monte Carlo}{33}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{1}{MCMC: Introduction}{33}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{2}{MCMC Algorithms}{34}{0}{4}

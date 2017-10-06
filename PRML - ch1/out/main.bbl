@@ -1,0 +1,107 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{bishop:2006:PRML}{book}{}
+      \name{author}{1}{}{%
+        {{hash=53e2ec6cc7f2b8080b7b3a758d5607fe}{%
+           family={Bishop},
+           family_i={B\bibinitperiod},
+           given={Christopher\bibnamedelima M.},
+           given_i={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{53e2ec6cc7f2b8080b7b3a758d5607fe}
+      \strng{fullhash}{53e2ec6cc7f2b8080b7b3a758d5607fe}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pattern Recognition and Machine Learning}
+      \field{year}{2006}
+    \endentry
+    \entry{Goodfellow-et-al-2016}{book}{}
+      \name{author}{3}{}{%
+        {{hash=5d2585c11210cf1d4512e6e0a03ec315}{%
+           family={Goodfellow},
+           family_i={G\bibinitperiod},
+           given={Ian},
+           given_i={I\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           family_i={B\bibinitperiod},
+           given={Yoshua},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           family_i={C\bibinitperiod},
+           given={Aaron},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{fullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{\url{http://www.deeplearningbook.org}}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+    \endentry
+    \entry{Mohri:2012:FML:2371238}{book}{}
+      \name{author}{3}{}{%
+        {{hash=8298c87c77cd46a5b2b7e799ba087945}{%
+           family={Mohri},
+           family_i={M\bibinitperiod},
+           given={Mehryar},
+           given_i={M\bibinitperiod}}}%
+        {{hash=7aef26bccf2dba53f4b3c49adfb2983e}{%
+           family={Rostamizadeh},
+           family_i={R\bibinitperiod},
+           given={Afshin},
+           given_i={A\bibinitperiod}}}%
+        {{hash=70e0fe957473b80f1b1b5dcb8e99d31e}{%
+           family={Talwalkar},
+           family_i={T\bibinitperiod},
+           given={Ameet},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The MIT Press}%
+      }
+      \strng{namehash}{79f7790e383ae556514d27a942686512}
+      \strng{fullhash}{79f7790e383ae556514d27a942686512}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{026201825X, 9780262018258}
+      \field{title}{Foundations of Machine Learning}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

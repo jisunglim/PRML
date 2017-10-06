@@ -1,0 +1,31 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@endinputifotherversion {3.36pt}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Introduction}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Kernel Method (Review)}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Sparse Kernel Machines}{5}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{3}{Convex optimization and KKT conditions}{6}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{SVM; Introduction}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Model setting}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Maximum Margin Classifiers}{9}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{SVM; Overlapping}{15}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{SVM; Regression}{16}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{RVM}{17}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{1}{The limitations of SVM}{17}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{2}{Analysis of Sparsity}{23}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{3}{RVM for classification}{27}{0}{5}

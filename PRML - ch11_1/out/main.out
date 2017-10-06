@@ -1,0 +1,16 @@
+\BOOKMARK [2][]{Outline0.2}{Introduction}{}% 1
+\BOOKMARK [3][]{Outline0.2.1.4}{Bayesian Approach and Intractability Relaxation}{Outline0.2}% 2
+\BOOKMARK [3][]{Outline0.2.2.7}{Introduction to Sampling}{Outline0.2}% 3
+\BOOKMARK [2][]{Outline0.3}{Basic Sampling Methods}{}% 4
+\BOOKMARK [3][]{Outline0.3.1.8}{Basic Sampling}{Outline0.3}% 5
+\BOOKMARK [3][]{Outline0.3.2.11}{Generating Random Samples}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.3.13}{General Strategy for Generating Samples}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.4.19}{Importance Sampling}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.5.23}{SIP}{Outline0.3}% 9
+\BOOKMARK [3][]{Outline0.3.6.24}{Sampling and the EM algorithm}{Outline0.3}% 10
+\BOOKMARK [2][]{Outline0.4}{Markov Chain}{}% 11
+\BOOKMARK [3][]{Outline0.4.1.27}{Markov Chain}{Outline0.4}% 12
+\BOOKMARK [3][]{Outline0.4.2.31}{Markov Chain for MCMC}{Outline0.4}% 13
+\BOOKMARK [2][]{Outline0.5}{Markov Chain Monte Carlo}{}% 14
+\BOOKMARK [3][]{Outline0.5.1.33}{MCMC: Introduction}{Outline0.5}% 15
+\BOOKMARK [3][]{Outline0.5.2.34}{MCMC Algorithms}{Outline0.5}% 16

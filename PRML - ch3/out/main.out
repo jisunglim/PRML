@@ -1,0 +1,20 @@
+\BOOKMARK [2][]{Outline0.2}{Introduction}{}% 1
+\BOOKMARK [3][]{Outline0.2.1.4}{Main concept of linear regression}{Outline0.2}% 2
+\BOOKMARK [3][]{Outline0.2.2.6}{Linear models and regression}{Outline0.2}% 3
+\BOOKMARK [2][]{Outline0.3}{Frequentist - linear regression}{}% 4
+\BOOKMARK [3][]{Outline0.3.1.8}{Prediction by Maximum Likelihood Estimation}{Outline0.3}% 5
+\BOOKMARK [3][]{Outline0.3.2.14}{Geometrical Interpretation of Least Squares}{Outline0.3}% 6
+\BOOKMARK [3][]{Outline0.3.3.15}{Sequential learning}{Outline0.3}% 7
+\BOOKMARK [3][]{Outline0.3.4.16}{Regularized least squares}{Outline0.3}% 8
+\BOOKMARK [3][]{Outline0.3.5.18}{Multiple outputs}{Outline0.3}% 9
+\BOOKMARK [2][]{Outline0.4}{Frequentist - model complexity}{}% 10
+\BOOKMARK [3][]{Outline0.4.1.19}{A frequentist viewpoint of the model complexity}{Outline0.4}% 11
+\BOOKMARK [3][]{Outline0.4.2.23}{A bias-variance tradeoffs}{Outline0.4}% 12
+\BOOKMARK [2][]{Outline0.5}{Bayesian - linear regression}{}% 13
+\BOOKMARK [3][]{Outline0.5.1.27}{Bayesian approach in linear regression}{Outline0.5}% 14
+\BOOKMARK [3][]{Outline0.5.2.28}{Bayesian treatment}{Outline0.5}% 15
+\BOOKMARK [3][]{Outline0.5.3.34}{Equivalent kernel}{Outline0.5}% 16
+\BOOKMARK [2][]{Outline0.6}{Bayesian - model complexity}{}% 17
+\BOOKMARK [3][]{Outline0.6.1.35}{A Bayesian viewpoint of the model complexity}{Outline0.6}% 18
+\BOOKMARK [3][]{Outline0.6.2.42}{The evidence approximation}{Outline0.6}% 19
+\BOOKMARK [3][]{Outline0.6.3.49}{An elegant interpretation of \040and }{Outline0.6}% 20

@@ -1,0 +1,12 @@
+\BOOKMARK [2][]{Outline0.2}{Introduction}{}% 1
+\BOOKMARK [3][]{Outline0.2.1.4}{Metropolis Algorithm}{Outline0.2}% 2
+\BOOKMARK [2][]{Outline0.3}{Markov Chain}{}% 3
+\BOOKMARK [3][]{Outline0.3.1.6}{Markov Chain}{Outline0.3}% 4
+\BOOKMARK [3][]{Outline0.3.2.10}{Markov Chain for MCMC}{Outline0.3}% 5
+\BOOKMARK [2][]{Outline0.4}{Markov Chain Monte Carlo}{}% 6
+\BOOKMARK [3][]{Outline0.4.1.11}{MCMC: Introduction}{Outline0.4}% 7
+\BOOKMARK [3][]{Outline0.4.2.12}{MCMC Algorithms}{Outline0.4}% 8
+\BOOKMARK [3][]{Outline0.4.3.13}{MCMC: Metropolis-Hastings}{Outline0.4}% 9
+\BOOKMARK [3][]{Outline0.4.4.16}{MCMC: Gibbs Sampling}{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.5.19}{MCMC: Slice Sampling}{Outline0.4}% 11
+\BOOKMARK [2][]{Outline0.5}{Hybrid Monte Carlo Algorithm}{}% 12

@@ -1,0 +1,45 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@endinputifotherversion {3.36pt}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Introduction}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Main concept of linear regression}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Linear models and regression}{6}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Frequentist - linear regression}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Prediction by Maximum Likelihood Estimation}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Geometrical Interpretation of Least Squares}{14}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{3}{Sequential learning}{15}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{4}{Regularized least squares}{16}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{5}{Multiple outputs}{18}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Frequentist - model complexity}{19}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{1}{A frequentist viewpoint of the model complexity}{19}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{2}{A bias-variance tradeoffs}{23}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Bayesian - linear regression}{27}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{1}{Bayesian approach in linear regression}{27}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{2}{Bayesian treatment}{28}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{3}{Equivalent kernel}{34}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{Bayesian - model complexity}{35}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{1}{A Bayesian viewpoint of the model complexity}{35}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{2}{The evidence approximation}{42}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{3}{An elegant interpretation of $\alpha $ and $\gamma $}{49}{0}{5}

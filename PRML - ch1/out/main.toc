@@ -1,0 +1,41 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@endinputifotherversion {3.36pt}
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{1}{How to solve complex problem?}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {1}{2}{What is machine learning?}{4}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Polynomial Curve Fitting}{10}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{1}{Polynomial curve fitting}{10}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {2}{2}{Chapter objectives}{15}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Probability Theory}{16}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Probability Basic}{16}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{2}{Bayesian and degree of belief}{24}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{3}{Statistical Inference}{26}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Decision Theory}{34}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{1}{How to descide optimal?}{34}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{2}{Decision stage}{37}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {4}{3}{Inference stage}{41}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Information Theory}{45}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{1}{Probability and Information}{45}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {5}{2}{Entrophy}{46}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {6}{1}{References}{47}{0}{5}
